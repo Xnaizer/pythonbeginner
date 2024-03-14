@@ -79,7 +79,7 @@ print ("indeks ke [0,2,4,6,8,10] :" + nama_lengkap[0:11:2])
 # ucup D'flame
 # uu 'lm mengambil huruf pembagian 2
 # [0:11:2] 0 adalah indeks awal yang diinginkan, 11 adalah indeks batas akhir, 2 adalah kelipatan huruf yang diinginkan
-
+print("mengambil index -1,-5 : " + nama_lengkap[-5:-1]) # tak dapat mengambil huruf e karena ketentuan 
 
 # item paling kecil
 print("paling kecil : " + min(nama_lengkap)) #btw ini jawabannya spasi asci code 32

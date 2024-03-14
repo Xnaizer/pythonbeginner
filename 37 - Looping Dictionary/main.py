@@ -18,6 +18,7 @@ for i in teman_teman:
 keys = teman_teman.keys()
 print(keys) # akan ngeprint key atau id pada list
 print(" "*20)
+
 for i in teman_teman.keys():
     print(teman_teman.get(i))
 

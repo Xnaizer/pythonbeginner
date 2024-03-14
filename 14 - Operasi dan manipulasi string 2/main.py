@@ -53,7 +53,7 @@ print("start = " + str(cek_start))
 # apakah awalan kata adalah sangjanim ? True
 
 cek_end = "Sangjangnim Babi".endswith("Bab") # ini perkata bukan pehuruf
-print("start = " + str(cek_end))
+print("end = " + str(cek_end))
 
 ## penggabungan komponen join() split ()
 pisah = ['aku','sayang','kamu']
